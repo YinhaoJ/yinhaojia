@@ -31,16 +31,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:yinhao.jia@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/YinhaoJ
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/yinhaojia/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=fOBkkygAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
@@ -69,10 +69,9 @@ education:
     summary: |
       GPA: 3.95/4.0
 
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses included:
+      - Semiconductor
+
   - area: BSc Chemical Engineering
     institution: Zhejiang University of Technology
     date_start: 2016-09-01
@@ -81,9 +80,8 @@ education:
       GPA: 3.4/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Catalysis
+
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
