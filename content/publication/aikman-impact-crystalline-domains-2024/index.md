@@ -1,0 +1,51 @@
+---
+title: Impact of Crystalline Domains on Long-term Stability and Mechanical Performance
+  of Anisotropic Silk Fibroin Sponges
+authors:
+- Elizabeth L. Aikman
+- Asha P. Rao
+- Yinhao Jia
+- Emily E. Fussell
+- Kayleigh E. Trumbull
+- Janani Sampath
+- Whitney L. Stoppel
+date: '2024-03-01'
+publishDate: '2025-03-12T23:13:39.344726Z'
+publication_types:
+- article-journal
+publication: '*Journal of Biomedical Materials Research Part A*'
+doi: 10.1002/jbm.a.37703
+abstract: Abstract                            Sponge-like materials made from regenerated
+  silk fibroin biopolymers are a tunable and advantageous platform for in vitro engineered
+  tissue culture and in vivo tissue regeneration. Anisotropic, three-dimensional (3D)
+  silk fibroin sponge-like scaffolds can mimic the architecture of contractile muscle.
+  Herein, we use silk fibroin solution isolated from the cocoons of               Bombyx
+  mori               silkworms to form aligned sponges via directional ice templating
+  in a custom mold with a slurry of dry ice and ethanol. Hydrated tensile mechanical
+  properties of these aligned sponges were evaluated as a function of silk polymer
+  concentration (3% or 5%), freezing time (50% or 100% ethanol), and post-lyophilization
+  method for inducing crystallinity (autoclaving, water annealing). Hydrated static
+  tensile tests were used to determine Young's modulus and ultimate tensile strength
+  across sponge formulations at two strain rates to evaluate rate dependence in the
+  calculated parameters. Results aligned with previous reports in the literature for
+  isotropic silk fibroin sponge-like scaffolds, where the method by which beta-sheets
+  were formed and level of beta-sheet content (crystallinity) had the greatest impact
+  on static parameters, while polymer concentration and freezing rate did not significantly
+  impact static mechanical properties. We estimated the crystalline organization using
+  molecular dynamics simulations to show that larger crystalline regions may be responsible
+  for strength at low strain amplitudes and brittleness at high strain amplitudes
+  in the autoclaved sponges. Within the parameters evaluated, extensional Young's
+  modulus is tunable in the range of 600--2800,kPa. Dynamic tensile testing revealed
+  the linear viscoelastic region to be between 0% and 10% strain amplitude and 0.2--2,Hz
+  frequencies. Long-term stability was evaluated by hysteresis and fatigue tests.
+  Fatigue tests showed minimal change in the storage and loss modulus of 5% silk fibroin
+  sponges for more than 6000,min of continuous mechanical stimulation in the linear
+  regime at 10% strain amplitude and 1,Hz frequency. Furthermore, we confirmed that
+  these mechanical properties hold when decellularized extracellular matrix is added
+  to the sponges and when the mechanical property assessments were performed in cell
+  culture media. We also used nano-computed tomography (nano-CT) and simulations to
+  explore pore interconnectivity and tortuosity. Overall, these results highlight
+  the potential of anisotropic, sponge-like silk fibroin scaffolds for long-term ($>$6,weeks)
+  contractile muscle culture with an in vitro bioreactor system that provides routine
+  mechanical stimulation.
+---
