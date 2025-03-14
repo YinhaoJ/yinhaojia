@@ -33,10 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:yinhao.jia@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/YinhaoJ
   - icon: brands/linkedin
@@ -58,7 +54,7 @@ education:
     date_start: 2022-08-18
     date_end: 2025-12-31
     summary: |
-      Supervised by [Prof Janani Sampath](https://example.com). Published 1 first-author paper and 2 co-authered papers.
+      Supervised by [Prof Janani Sampath](https://example.com). Published 2 first-author paper and 2 co-authered papers.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
