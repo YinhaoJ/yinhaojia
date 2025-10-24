@@ -24,7 +24,7 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-certificates
+  - block: resume-awards
     content:
       title: Certificates
       username: admin
