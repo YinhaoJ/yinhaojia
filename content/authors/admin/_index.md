@@ -54,7 +54,7 @@ education:
     date_start: 2022-08-18
     date_end: 2025-12-31
     summary: |
-      Supervised by [Prof Janani Sampath](https://example.com). Published 2 first-author paper and 2 co-authered papers.
+      Supervised by [Prof Janani Sampath](https://example.com). Published 3 first-author paper and 2 co-authered papers.
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -139,7 +139,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+Certificates:
   - title: Neural Networks and Deep Learning
     url: https://learn.nvidia.com/certificates?id=1aK08Or2QdSU74k9oSMfrQ
     date: '2025-02-07'
